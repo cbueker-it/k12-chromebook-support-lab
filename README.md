@@ -22,13 +22,13 @@ I then mapped those concepts into a practical Chromebook device lifecycle. This 
 
 ![Google Admin Console Orientation](images/01-google-admin-console-orientation.png)
 
-This diagram reflects my orientation to the Google Admin Console and the areas of the dashboard that are most relevant to Chromebook support in a K-12 environment.
+This diagram displays a graphic representation of Google Admin Console and the areas of the dashboard that are most relevant to Chromebook support in a K-12 environment.
 
-I focused on how device management, ChromeOS devices, managed browsers, applications, networks, and organizational structure fit together inside a centralized administrative platform.
+In the diagram, I focused on how device management, ChromeOS devices, managed browsers, applications, networks, and organizational structure fit together inside a centralized administrative platform.
 
 The main takeaway is that Chromebook administration is built around centralized management rather than configuring every endpoint individually. This is a principle that carries across operating systems. In Windows environments, tools such as Microsoft Intune can also be used to centrally manage devices, policies, applications, security settings, and user access.
 
-The administrative tools are different, but the larger endpoint-management principle is similar: organize the environment, apply consistent policy, validate the configuration, support the endpoint, and manage the device throughout its lifecycle.
+The administrative tools are different, but the larger endpoint-management principle is pretty much the same: organize the environment, apply consistent policy, validate the configuration, support the endpoint, and manage the device throughout its lifecycle.
 
 **Chromebook Lifecycle Workflow**
 
@@ -60,7 +60,7 @@ Receive → Enroll → Assign → Apply → Validate → Deploy → Support → 
 
 This lab helped me connect Chromebook support with the broader endpoint lifecycle that I already use in my IT work:
 
-**Configure → Validate → Deploy → Support → Recover → Document → Reuse or Retire**
+Configure → Validate → Deploy → Support → Recover → Document → Reuse or Retire
 
 The specific administrative tools may change between ChromeOS, Windows, Linux, or other environments, but the underlying IT support principles remain consistent.
 
